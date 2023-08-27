@@ -1,22 +1,20 @@
--- import: <user_name>.github.io/<repo_name>/lib/front
--- import: <user_name>.github.io/<repo_name>/lib/back
+-- import: viseshagarwal.github.io/business-card/lib/front
+-- import: viseshagarwal.github.io/business-card/lib/back
 
 -- ds.page: Business Card
 
 
--- front.front: John Doe
-title: Software Developer
-company: John Doe Pvt. Ltd.
-logo: $assets.files.assets.logo.svg
-contact-1: +91 12345 99999
-contact-2: +91 12345 88888
-website-1: john@johndoe.com
-website-2: www.johndoe.com
-location: 123, Block No. A-123, Times Square, Bangalore - 123456
+-- front.front: Visesh Agarwal
+title: Senior Systems Associate
+company: Infosys, Ltd.
+logo: $assets.files.assets.infosys-logo-png.png
+contact-1: +91 7717769254
+website-1: Infosys.com
+location: Plot no. 44/97 A, 3rd cross, Electronic City, Hosur Road, Bengaluru – 560 100
 
 
--- back.back: John Doe Pvt. Ltd.
-logo: $assets.files.assets.logo.svg
+-- back.back: Infosys, Ltd.
+logo: $assets.files.assets.infosys-logo-png.png
 
 
 -- end: ds.page
