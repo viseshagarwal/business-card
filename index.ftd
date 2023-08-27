@@ -1,5 +1,5 @@
--- import: <user_name>.github.io/<repo_name>/lib/front
--- import: <user_name>.github.io/<repo_name>/lib/back
+-- import: viseshagarwal.github.io/business-card/lib/front
+-- import: viseshagarwal.github.io/business-card/lib/back
 
 -- ds.page: Business Card
 
