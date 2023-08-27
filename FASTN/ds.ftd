@@ -34,16 +34,6 @@ boolean login-button: $common.login-button
 string site-url: $common.site-url
 optional ftd.raw-image-src favicon:
 
--- ftd.ui list page.footer:
-
--- footer.fastn-footer:
-copyright: Copyright © 2023 - fastn-community.github.io/business-card-simple
-site-logo: $common.fastn-logo
-powered-by-text: Powered by
-powered-by-link: https://fastn.com/
-
--- end: page.footer
-
 -- doc-site.page: $page.title
 site-logo: $page.site-logo
 body: $page.body
@@ -52,14 +42,14 @@ sidebar: $page.sidebar
 full-width: $page.full-width
 types: $page.typography
 show-banner: $page.show-banner
-show-footer: $page.show-footer
+;;show-footer: $page.show-footer
 site-name: $page.site-name
 logo-height: $page.logo-height
 logo-width: $page.logo-width
 github-icon: $page.github-icon
 github-url: $page.github-url
 right-sidebar: $page.right-sidebar
-footer: $page.footer
+;;footer: $page.footer
 banner: $page.banner
 document-title: $page.document-title
 document-description: $page.document-description
